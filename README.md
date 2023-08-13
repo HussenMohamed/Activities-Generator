@@ -3,6 +3,9 @@
 ## Overview
 This project is a simple web application that generates random activities to do when you are bored. It utilizes the "Bored" API, a free API that provides suggestions for random activities.
 
+## Live Demo
+https://hussenmohamed.github.io/Activities-Generator/
+
 ## How It Works
 When you load the page or click the "Give me another activity" button, the application makes an API request to retrieve a random activity. The activity and its type are then displayed on the page.
 
